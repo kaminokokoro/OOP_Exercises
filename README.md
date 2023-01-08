@@ -9,10 +9,12 @@ The content of this repo is built on:
 - lecturer: Th.S Quản Thái Hà
 
 ## My profile ![Profile View Counter](https://komarev.com/ghpvc/?username=kaminokokoro) [![wakatime](https://wakatime.com/badge/user/9ce10648-ece3-456f-940c-449b35c728ce.svg)](https://wakatime.com/@9ce10648-ece3-456f-940c-449b35c728ce)
+
 - Github: [Phạm Hùng](https://github.com/kaminokokoro) 
+- Wakatime: [Phạm Hùng](https://wakatime.com/@kaminokokoro)
 - Class: K66A5 - Data Science
 - ID Student: 21000143
-- Wakatime: [Phạm Hùng](https://wakatime.com/@kaminokokoro)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaminokokoro&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
