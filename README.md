@@ -14,11 +14,13 @@ The content of this repo is built on:
 - ID Student: 21000143
 
 ## Install
-To be able to run repo files, you first need to clone the repo to your computer:
+- First way: to be able to run repo files, you first need to clone the repo to your computer:
 ```
 git clone https://github.com/kaminokokoro/OOP_Exercises.git
 ```
 
+- Second way: 
+Click [Release](https://github.com/kaminokokoro/OOP_Exercises/archive/refs/tags/src.zip)
 
 ## Thank you for reading
 
