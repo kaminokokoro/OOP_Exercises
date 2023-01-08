@@ -12,6 +12,7 @@ The content of this repo is built on:
 - Github: [Phạm Hùng](https://github.com/kaminokokoro) 
 - Class: K66A5 - Data Science
 - ID Student: 21000143
+- Wakatime: [Phạm Hùng](https://wakatime.com/@kaminokokoro)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaminokokoro&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
